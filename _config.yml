@@ -12,7 +12,7 @@ collections:
   project:
     output: true
     permalink: /project/:path/
-Stack
+
 social:
     - icon: fa-facebook
       link: "#"
