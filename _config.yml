@@ -3,7 +3,7 @@ description: January 2019
 author: Brenna Edwards
 github: https://github.com/bedwards254
 about: Project Digital Archivist
-avatar_url: /static/img/avatar.jpg
+# avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
